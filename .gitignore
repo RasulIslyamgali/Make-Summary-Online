@@ -1,0 +1,9 @@
+.idea
+.git
+__pycache__
+.env
+venv
+notes.txt
+quick_check.py
+useful_old_scripts.py
+
